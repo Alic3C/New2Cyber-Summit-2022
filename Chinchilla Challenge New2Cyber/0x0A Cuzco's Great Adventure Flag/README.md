@@ -38,7 +38,9 @@
 > She safely made it back to her 127.0.0.1, and once she arrived, she found that her home was more open than she remembered. There was more community surrounding it than she thought. She just had to look out the window and remember she’d had her adventure, there was help to be found, and she was part of this community - she belonged! Remember you belong here and are part of our community too.
 
 ## Solution
-Placeholder
+Using the provided website [Pulsedive](https://pulsedive.com/) shows that the website is `Very low risk` and registered in `2002`:
+
+![pulsedive.png](pulsedive.png)
 
 ## Flag
-Flag: ``
+Flag: `2002_very_low_risk`
