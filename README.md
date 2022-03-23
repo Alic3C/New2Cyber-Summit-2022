@@ -11,10 +11,6 @@ Wednesday 23rd March 18:15 UTC - Thursday 24th March 18:15 UTC
 - [SANS - New2Cyber CTF Scoreboard](https://new2cyber-ctf.threatsims.com/scoreboard)
 - [SANS - New2Cyber Vets CTF Scoreboard](https://new2cyber-ctfvets.threatsims.com/scoreboard)
 
-
-## Challenge Difficulties
-- TBC
-
 ## Challenge Writeups
 These have been organized in order they appear on the site:
 
