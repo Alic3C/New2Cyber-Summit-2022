@@ -12,6 +12,7 @@
 > [No Bruteforce required]
 
 ## Solution
+`http://backdoored.threatsims.com:8087/download.php?file=[base64 path]`. Flag is in `request.php`
 
 ## Flag
-Flag: ``
+Flag: `TS{ten_kills_on_the_board_right_now_sz13538}`
