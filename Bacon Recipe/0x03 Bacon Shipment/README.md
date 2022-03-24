@@ -10,7 +10,11 @@
 > Flag format: flag{email}
 
 ## Solution
+Looking at the files sent within NetworkMiner show `shipment_303.xlsm` was sent across the network.
 
+Applying the filter `tcp.stream eq 18` within Wireshark and following the conversation shows us who sent the email:
+
+![Wireshark.png](Wireshark.png)
 
 ## Flag
-Flag: ` `
+Flag: `flag{payments@shipify.org}`
