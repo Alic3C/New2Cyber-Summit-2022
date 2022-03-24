@@ -10,7 +10,9 @@
 > Flag format: flag{N}
 
 ## Solution
+Using NetworkMiner and a keyword seach, 9 results are displayed which match this domain, but 2 are duplicates:
 
+![NetworkMiner.png](NetworkMiner.png)
 
 ## Flag
-Flag: ` `
+Flag: `flag{7}`
