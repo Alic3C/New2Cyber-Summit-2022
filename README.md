@@ -104,8 +104,23 @@ These have been organized in order they appear on the site:
 |||[0x0A Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x0A%20Cuzco's%20Great%20Adventure%20Flag)||
 
 ### Crypto-Ciphers-N-Encodings
+| Crypto |
+| ------ |
+|[AFSC 29331](Crypto-Ciphers-N-Encodings/AFSC%2029331)|
+|[All About That Base](Crypto-Ciphers-N-Encodings/All%20About%20That%20Base)|
+|[All About That Base Remix](Crypto-Ciphers-N-Encodings/All%20About%20That%20Base%20Remix)|
+|[Don't Touch The Third Rail](Crypto-Ciphers-N-Encodings/Don't%20Touch%20The%20Third%20Rail)|
+|[Et Tu Brute](Crypto-Ciphers-N-Encodings/Et%20Tu%20Brute)|
+|[Mind the Padding](Crypto-Ciphers-N-Encodings/Mind%20the%20Padding)|
+|[N Eggs](Crypto-Ciphers-N-Encodings/N%20Eggs)|
+|[Non-Standard NetBIOS Offset](Crypto-Ciphers-N-Encodings/Non-Standard%20NetBIOS%20Offset)|
+|[Two Steams](Crypto-Ciphers-N-Encodings/Two%20Streams)|
+|[Why Are They Even In That Order In The First Place](Crypto-Ciphers-N-Encodings/Why%20Are%20They%20Even%20In%20That%20Order%20In%20The%20First%20Place)|
 
 ### Trainer
+| Linux | 
+| ----- |
+|[]()|
 
 ## Event Info & Code of Conduct
 ### Rules of Engagement (ROE)
