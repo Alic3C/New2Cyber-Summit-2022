@@ -95,6 +95,18 @@ These have been organized in order they appear on the site:
 |[0x08 Bacon Fried](Bacon%20Recipe/0x08%20Bacon%20Fried)|
 |[0x09 Bacon Served](Bacon%20Recipe/0x09%20Bacon%20Served)|
 
+### Chinchilla Challenge New2Cyber
+| Crypto | OSINT | Web | Steg / OSINT |
+| ------ | ----- | --- | ------------ |
+|[0x01 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x01%20Cuzco's%20Great%20Adventure%20Flag)|[0x02 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x02%20Cuzco's%20Great%20Adventure%20Flag)|[0x03 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x03%20Cuzco's%20Great%20Adventure%20Flag)|[0x04 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x04%20Cuzco's%20Great%20Adventure%20Flag)
+||[0x06 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x06%20Cuzco's%20Great%20Adventure%20Flag)|[0x08 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x08%20Cuzco's%20Great%20Adventure%20Flag)|[0x05 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x05%20Cuzco's%20Great%20Adventure%20Flag)|
+||[0x07 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x07%20Cuzco's%20Great%20Adventure%20Flag)|[0x09 Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x09%20Cuzco's%20Great%20Adventure%20Flag)||
+|||[0x0A Cuzco's Great Adventure Flag](Chinchilla%20Challenge%20New2Cyber/0x0A%20Cuzco's%20Great%20Adventure%20Flag)||
+
+### Crypto-Ciphers-N-Encodings
+
+### Trainer
+
 ## Event Info & Code of Conduct
 ### Rules of Engagement (ROE)
 READ ALL OF THESE RULES - Every part of this is important!
